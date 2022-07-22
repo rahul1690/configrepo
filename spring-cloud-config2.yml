@@ -1,4 +1,4 @@
 my:
-  greeting: Welcome to spring clud config 1
+  greeting: Welcome to spring clud config 2
   list:
-    values: apple,banana,watermelon
+    values: apple,banana,watermelon,coconut
