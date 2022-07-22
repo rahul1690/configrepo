@@ -1,4 +1,4 @@
 my:
-  greeting: Welcome to Greatlearning
+  greeting: Welcome to cloud config server
   list:
     values: apple,banana,mango,watermelon,strawberry
