@@ -1,4 +1,4 @@
 my:
   greeting: Welcome to cloud config server remote git
   list:
-    values: apple,banana,mango,watermelon,strawberry,grapes,coconut
+    values: apple,banana,mango,watermelon,strawberry,grapes
